@@ -22,10 +22,10 @@ Eu sou o **George**, um dev em transição de carreira rumo ao Back-end & DevOps
 ---
 
 ### Meus Projetos Destacados
-- **[Aladin](https://github.com/Georrgebezerra/Aladin)**: Sistema back-end em C para match de currículos e vagas — um gênio para encontrar oportunidades!
-- **[Jogo da Velha com Ranking](https://github.com/Georrgebezerra/jogo-da-velha)**: Um jogo interativo em C com ranking, mostrando lógica e diversão.
-- **[Número Surpresa](https://github.com/Georrgebezerra/numero-surpresa)**: Jogo simples em C onde o usuário adivinha um número secreto — interatividade pura!
-- **[Sistema de Vendas Diárias](https://github.com/Georrgebezerra/daily-sales-system)**: Programa em C para análise de vendas, ideal para bases de Back-end.
+- **[Aladin](https://github.com/Georrgebezerra/Project1)**: Sistema back-end em C para match de currículos e vagas — um gênio para encontrar oportunidades!
+- **[Cadastro de Alunos](https://github.com/Georrgebezerra/Cadastro-de-alunos1)**: Um programa em C onde é possível cadastrar alunos, notas e calular as médicas, e muito mais!
+- **[Número Surpresa](https://github.com/Georrgebezerra/Numero-Secreto)**: Jogo simples em C onde o usuário adivinha um número secreto — interatividade pura!
+- **[Sistema de Vendas Diárias](https://github.com/Georrgebezerra/Daily-Sales-System)**: Programa em C para análise de vendas, ideal para bases de Back-end.
 
 ---
 
